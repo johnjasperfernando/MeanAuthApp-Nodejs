@@ -1,0 +1,12 @@
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+.router-link {
+  color: #f7320b;
+  font-weight: bold;
+}
+
+/*# sourceMappingURL=styles.css.map*/

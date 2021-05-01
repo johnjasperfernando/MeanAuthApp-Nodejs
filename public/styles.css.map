@@ -1,0 +1,1 @@
+{"version":3,"sources":["./styles.scss"],"names":[],"mappings":"AAAA;EACI;EACA;EACA;AACJ;;AACE;EACE;EACH;AAED,C","file":"styles.css","sourcesContent":["ul {\n    list-style-type: none;\n    margin: 0;\n    padding: 0;\n  }\n  .router-link{\n    color: #f7320b;\n\tfont-weight: bold;\n  }\n\n//   ['active-color']"],"sourceRoot":"webpack:///"}
